@@ -1,5 +1,9 @@
 # @two00/core
 
+[![npm](https://img.shields.io/npm/v/@two00/core.svg?style=flat-square)](https://www.npmjs.com/package/@two00/core)
+[![Travis branch](https://img.shields.io/travis/two00-com/core/master.svg?style=flat-square)](https://travis-ci.org/two00-com/core)
+[![Codecov branch](https://img.shields.io/codecov/c/github/two00-com/core/master.svg?style=flat-square)](https://codecov.io/gh/two00-com/core)
+
 > The core of the public api for [two00](https://two00.com)
 
 ## Table of Contents
