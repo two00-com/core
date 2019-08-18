@@ -1,0 +1,23 @@
+# generated
+coverage
+.nyc*
+*.log
+*.cache
+.eslintcache
+yarn.lock
+package-lock.json
+
+# macOS
+.DS_STORE
+
+# IDE / Editors
+.idea/
+.vscode/
+
+# others
+src
+test
+.babelrc
+.prettierrc
+.travis.yml
+.appveyor.yml
