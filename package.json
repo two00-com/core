@@ -51,6 +51,7 @@
     "@babel/core": "^7.5.5",
     "@babel/preset-env": "^7.5.5",
     "axios-mock-adapter": "^1.17.0",
+    "babel-plugin-transform-inline-environment-variables": "^0.4.3",
     "cross-env": "^5.2.0",
     "husky": "^3.0.4",
     "jest": "^24.9.0",
