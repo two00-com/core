@@ -66,7 +66,7 @@ const defaultOptions = {
       // `Number`
       timeout: 3000,
       // `String`
-      url: "https://two00-api.systemlab.info",
+      url: "https://api.two00.xyz",
       // `Object`
       routes: {
         // `Object`
@@ -224,7 +224,7 @@ const defaultConfig = {
     // `Number`
     timeout: 3000,
     // `String`
-    url: "https://two00-api.systemlab.info",
+    url: "https://api.two00.xyz",
     // `Object`
     routes: {
       // `Object`
@@ -294,7 +294,7 @@ const defaultOptions = {
       // `Number`
       timeout: 3000,
       // `String`
-      url: "https://two00-api.systemlab.info",
+      url: "https://api.two00.xyz",
       // `Object`
       routes: {
         // `Object`
@@ -403,7 +403,7 @@ const defaultOptions = {
       // `Number`
       timeout: 3000,
       // `String`
-      url: "https://two00-api.systemlab.info",
+      url: "https://api.two00.xyz",
       // `Object`
       routes: {
         // `Object`
