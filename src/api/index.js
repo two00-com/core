@@ -12,7 +12,7 @@ export let apiOptions = {
       url:
         /* istanbul ignore next */
         process.env.NODE_ENV === "production"
-          ? "https://two00-api.systemlab.info"
+          ? "https://api.two00.xyz"
           : "http://localhost:2017",
       routes: {
         serverMonitor: {
