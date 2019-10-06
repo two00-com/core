@@ -6,7 +6,7 @@ export const apiOptionsFixture = {
       timeout: 3000,
       url:
         process.env.NODE_ENV === "production"
-          ? "https://two00-api.systemlab.info"
+          ? "https://api.two00.xyz"
           : "http://localhost:2017",
       routes: {
         serverMonitor: {
