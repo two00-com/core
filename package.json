@@ -1,6 +1,6 @@
 {
   "name": "@two00/core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Lukas Aichbauer <hello@two00.com> (https://two00.com)",
   "license": "MIT",
   "main": "lib/index.js",

@@ -1,3 +1,7 @@
+1.0.3 - February, 14 2020
+
+* 94566e5 Chore: bump handlebars from 4.1.2 to 4.5.3 (#3) (dependabot[bot])
+
 1.0.2 - October, 06 2019
 
 * d8ded91 Fix: new url (#2) (Lukas Aichbauer)
