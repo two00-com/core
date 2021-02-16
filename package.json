@@ -44,7 +44,7 @@
   "dependencies": {
     "@babel/polyfill": "^7.4.4",
     "axios": "^0.19.0",
-    "systeminformation": "^4.14.4"
+    "systeminformation": "^5.3.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.5.5",
